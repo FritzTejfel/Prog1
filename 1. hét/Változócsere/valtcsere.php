@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Page Title</title>
-
-</head>
-<body>
 <?php 
     $a = 25;
     $b = 12;
@@ -27,6 +20,3 @@
     echo 'b: ' . $b . '</br>';
 
 ?>
-    
-</body>
-</html>
